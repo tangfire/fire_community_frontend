@@ -1,24 +1,4 @@
-# fire_community_frontend
 
-## Project setup
-```
-npm install
-```
+# 环境
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+`Node.js版本: 18.20.1`
